@@ -201,7 +201,6 @@ def main():
       tag.notification_loop()
      except:
       pass
-
 if __name__ == "__main__":
     main()
 
